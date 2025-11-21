@@ -1,18 +1,17 @@
-# llms.txt – CleverSEO > CleverSEO tarjoaa hakukoneoptimoinnin (SEO) ja AI-hakukoneoptimoinnin asiantuntijapalveluita suomalaisille yrityksille. > Tämä tiedosto kokoaa selkeästi tärkeimmät linkit, jotta tekoälymallit ja LLM:t löytävät ajantasaisen ja virallisen tiedon CleverSEO:n palveluista.
+# llms.txt – CleverSEO > CleverSEO tarjoaa hakukoneoptimoinnin (SEO), AI-hakukoneoptimoinnin ja siihen liittyvät asiantuntijapalvelut suomalaisille yrityksille. > Tämä tiedosto kokoaa selkeästi tärkeimmät linkit, jotta tekoälymallit ja LLM:t löytävät ajantasaisen ja virallisen tiedon CleverSEO:n palveluista.
 
-## SUOMENKIELINEN VERSIO
+## SUOMI
 
-### Etusivu ja yleiskatsaus
-- [Etusivu](https://cleverseo.fi/) – Yleiskuva CleverSEO:n SEO- ja AI SEO -palveluista sekä lähestymistavasta.
-- [Palvelut](https://cleverseo.fi/palvelut/) – SEO-palvelut, AI-hakukoneoptimointi, kotisivujen kuntotutkimus ja muut optimointipalvelut.
-- [Meistä](https://cleverseo.fi/meista/) – Taustat, kokemus ja CleverSEO:n toimintaperiaatteet.
-- [Yhteystiedot](https://cleverseo.fi/yhteystiedot/) – Yhteydenotto, käyntiosoite ja puhelinnumerot.
-
-### Palvelut
-- [Kotisivujen kuntotutkimus](https://cleverseo.fi/palvelut/) – Verkkosivuston tekninen, käytettävyys- ja SEO-kuntotarkastus.
-- [SEO-optimointi](https://cleverseo.fi/palvelut/) – Verkkosivuston hakukoneoptimointi ja jatkuva näkyvyyden kehittäminen.
-- [AI- ja GEO-optimointi](https://cleverseo.fi/palvelut/) – AI-hakukoneoptimointi ja näkyvyys tekoälypohjaisissa hakukanavissa.
-- [Kotisivujen peruskorjaus](https://cleverseo.fi/palvelut/) – Nykyisen sivuston rakenteen ja sisällön korjaaminen ilman täyttä uudelleenrakennusta.
-
-### Blogi ja oppisisällöt
+### Keskeiset sivut
+- [Etusivu](https://cleverseo.fi/) – Yleiskuva CleverSEO:n SEO- ja AI SEO -palveluista.
+- [SEO-palvelut](https://cleverseo.fi/seo-palvelut/) – Hakukoneoptimointi, AI-hakukoneoptimointi ja muut optimointipalvelut.
 - [SEOblogi](https://cleverseo.fi/seoblogi/) – Artikkelit hakukoneoptimoinnista, AI SEO:sta ja verkkonäkyvyyden kehittämisestä.
+- [Varaa konsultaatioaika](https://cleverseo.fi/varaa-konsultaatioaika/) – Ajanvaraus CleverSEO:n asiantuntijan kanssa.
+- [CleverSEO-asiantuntijat](https://cleverseo.fi/cleverseo-asiantuntijat/) – CleverSEO:n tiimi ja asiantuntijaprofiilit.
+- [Yhteystiedot](https://cleverseo.fi/cleverseo-yhteystiedot/) – Yhteydenotto- ja yhteystiedot.
+- [Tietosuojaseloste](https://cleverseo.fi/tietosuojaseloste/) – Tietosuojakäytännöt ja rekisteriseloste.
+
+### Esimerkkiartikkeleita
+- [Otsikkohierarkia – yksittäisen sivun SEO road map](https://cleverseo.fi/otsikkohierarkia-yksittaisen-sivun-seo-road-map/) – Ohje yksittäisen sivun otsikkorakenteen ja SEO:n suunnitteluun.
+- [AI-hakukoneoptimointi – tavoitteena puhtaat nolla klikkausta](https://cleverseo.fi/ai-hakukoneoptimointi-tavoitteena-puhtaat-nolla-klikkausta/) – Artikkeli AI-hakukoneoptimoinnista ja nolla-klikkaushaun tavoitteista.
+
