@@ -1,0 +1,18 @@
+# llms.txt – CleverSEO > CleverSEO tarjoaa hakukoneoptimoinnin (SEO) ja AI-hakukoneoptimoinnin asiantuntijapalveluita suomalaisille yrityksille. > Tämä tiedosto kokoaa selkeästi tärkeimmät linkit, jotta tekoälymallit ja LLM:t löytävät ajantasaisen ja virallisen tiedon CleverSEO:n palveluista.
+
+## SUOMENKIELINEN VERSIO
+
+### Etusivu ja yleiskatsaus
+- [Etusivu](https://cleverseo.fi/) – Yleiskuva CleverSEO:n SEO- ja AI SEO -palveluista sekä lähestymistavasta.
+- [Palvelut](https://cleverseo.fi/palvelut/) – SEO-palvelut, AI-hakukoneoptimointi, kotisivujen kuntotutkimus ja muut optimointipalvelut.
+- [Meistä](https://cleverseo.fi/meista/) – Taustat, kokemus ja CleverSEO:n toimintaperiaatteet.
+- [Yhteystiedot](https://cleverseo.fi/yhteystiedot/) – Yhteydenotto, käyntiosoite ja puhelinnumerot.
+
+### Palvelut
+- [Kotisivujen kuntotutkimus](https://cleverseo.fi/palvelut/) – Verkkosivuston tekninen, käytettävyys- ja SEO-kuntotarkastus.
+- [SEO-optimointi](https://cleverseo.fi/palvelut/) – Verkkosivuston hakukoneoptimointi ja jatkuva näkyvyyden kehittäminen.
+- [AI- ja GEO-optimointi](https://cleverseo.fi/palvelut/) – AI-hakukoneoptimointi ja näkyvyys tekoälypohjaisissa hakukanavissa.
+- [Kotisivujen peruskorjaus](https://cleverseo.fi/palvelut/) – Nykyisen sivuston rakenteen ja sisällön korjaaminen ilman täyttä uudelleenrakennusta.
+
+### Blogi ja oppisisällöt
+- [SEOblogi](https://cleverseo.fi/seoblogi/) – Artikkelit hakukoneoptimoinnista, AI SEO:sta ja verkkonäkyvyyden kehittämisestä.
