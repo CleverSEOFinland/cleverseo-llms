@@ -4,6 +4,7 @@
 
 ## Company
 
+- [CleverSEO](https://cleverseo.fi/): Home page introducing CleverSEO for WP, managed WooCommerce commerce platforms and custom WordPress development.
 - [About CleverSEO](https://cleverseo.fi/company/): Who CleverSEO is, its approach of combining proven foundations with focused engineering, and what clients can expect when working with the company.
 
 ## CleverSEO for WP
