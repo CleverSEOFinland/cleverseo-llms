@@ -1,17 +1,30 @@
-# llms.txt – CleverSEO > CleverSEO tarjoaa hakukoneoptimoinnin (SEO), AI-hakukoneoptimoinnin ja siihen liittyvät asiantuntijapalvelut suomalaisille yrityksille. > Tämä tiedosto kokoaa selkeästi tärkeimmät linkit, jotta tekoälymallit ja LLM:t löytävät ajantasaisen ja virallisen tiedon CleverSEO:n palveluista.
+# CleverSEO
 
-## SUOMI
+> CleverSEO is a Finland-based software and WordPress engineering company. It builds CleverSEO for WP, an AI-powered SEO audit and fix-suggestion plugin for WordPress with a separate Premium add-on that applies and rolls back approved changes, and it also designs managed WooCommerce commerce platforms and delivers custom WordPress development for businesses.
 
-### Keskeiset sivut
-- [Etusivu](https://cleverseo.fi/) – Yleiskuva CleverSEO:n SEO- ja AI SEO -palveluista.
-- [SEO-palvelut](https://cleverseo.fi/seo-palvelut/) – Hakukoneoptimointi, AI-hakukoneoptimointi ja muut optimointipalvelut.
-- [SEOblogi](https://cleverseo.fi/seoblogi/) – Artikkelit hakukoneoptimoinnista, AI SEO:sta ja verkkonäkyvyyden kehittämisestä.
-- [Varaa konsultaatioaika](https://cleverseo.fi/varaa-konsultaatioaika/) – Ajanvaraus CleverSEO:n asiantuntijan kanssa.
-- [CleverSEO-asiantuntijat](https://cleverseo.fi/cleverseo-asiantuntijat/) – CleverSEO:n tiimi ja asiantuntijaprofiilit.
-- [Yhteystiedot](https://cleverseo.fi/cleverseo-yhteystiedot/) – Yhteydenotto- ja yhteystiedot.
-- [Tietosuojaseloste](https://cleverseo.fi/tietosuojaseloste/) – Tietosuojakäytännöt ja rekisteriseloste.
+## Company
 
-### Esimerkkiartikkeleita
-- [Otsikkohierarkia – yksittäisen sivun SEO road map](https://cleverseo.fi/otsikkohierarkia-yksittaisen-sivun-seo-road-map/) – Ohje yksittäisen sivun otsikkorakenteen ja SEO:n suunnitteluun.
-- [AI-hakukoneoptimointi – tavoitteena puhtaat nolla klikkausta](https://cleverseo.fi/ai-hakukoneoptimointi-tavoitteena-puhtaat-nolla-klikkausta/) – Artikkeli AI-hakukoneoptimoinnista ja nolla-klikkaushaun tavoitteista.
+- [About CleverSEO](https://cleverseo.fi/company/): Who CleverSEO is, its approach of combining proven foundations with focused engineering, and what clients can expect when working with the company.
 
+## CleverSEO for WP
+
+- [CleverSEO for WP](https://cleverseo.fi/cleverseo-for-wp/): Overview of the free CleverSEO for WP plugin (whole-site SEO audit, verified findings, AI-prioritized fix suggestions) and the separate CleverSEO Premium for WP add-on that writes and rolls back approved fixes.
+- [Pricing](https://cleverseo.fi/cleverseo-for-wp/pricing/): Plans and quotas for the free CleverSEO for WP plugin and the CleverSEO Premium for WP subscription tiers, covering crawl coverage and monthly AI fix-suggestion limits.
+- [Technical specifications](https://cleverseo.fi/cleverseo-for-wp/specs/): Detailed reference covering system requirements, supported SEO plugins, data handling, how verified findings and AI fix suggestions are produced, and the approval-and-rollback process for Premium writes.
+- [Measurement & methodology](https://cleverseo.fi/cleverseo-for-wp/measurement/): A timed comparison of manual metadata and image alt-text work against CleverSEO for WP with Premium, with the test setup, results and limitations explained.
+- [Apply for early access](https://cleverseo.fi/cleverseo-for-wp/early-access/): Application form to request access to CleverSEO for WP and a free CleverSEO Premium for WP subscription during the early-access period.
+
+## Services
+
+- [WordPress Development](https://cleverseo.fi/wordpress-development/): Custom WordPress and WooCommerce development covering technical SEO and performance, site repair and modernization, integrations and authentication, and purpose-built plugins.
+- [Managed Commerce Platforms](https://cleverseo.fi/commerce-platforms/): WooCommerce-based commerce platforms adapted to a business's products, operations, payments and markets, built at launch and supported as the business grows.
+
+## Contact
+
+- [Discuss Your Project](https://cleverseo.fi/discuss-your-project/): Contact form for starting a conversation about a CleverSEO for WP, managed commerce platform, or WordPress development project.
+
+## Optional
+
+- [Terms of Service](https://cleverseo.fi/terms/): Terms governing the CleverSEO service, the free CleverSEO for WP and CleverSEO Premium for WP plugins, and the paid subscription that enables Premium's apply features and updates.
+- [Service Privacy Policy](https://cleverseo.fi/privacy/): How the CleverSEO service used by the plugin for the site crawl, AI site summary, AI fix suggestions, and Premium entitlement and update checks processes data.
+- [Website Privacy Policy](https://cleverseo.fi/website-privacy/): How CleverSEO Oy processes personal data submitted through the cleverseo.fi website, such as contact-form enquiries and early-access applications.
